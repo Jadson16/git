@@ -2,5 +2,8 @@ Uma nota de teste
 
 Entendendo o HEAD
 
+<<<<<<< HEAD
 
 Esta linha foi modificada no ramo master
+=======
+esta linha foi modificada no arquivo teste.
